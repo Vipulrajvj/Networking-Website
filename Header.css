@@ -1,0 +1,22 @@
+.header{
+    display : flex;
+}
+
+.header_left{
+    display: flex;
+}
+
+.header_left > img{
+    height: 40px;
+    /* contains the image when we resize it  */
+    object-fit: contain;
+}
+
+.header_search {
+
+    /* use padding and other properties to change values of the field of the input box */
+
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
