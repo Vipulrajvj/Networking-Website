@@ -1,0 +1,1 @@
+// make a project and get the settings by clicking on the settings on the sidebar
